@@ -12,3 +12,7 @@ theme = "hugo-theme-techdoc"
     menu_style = "open-menu"
     menu_exclusion = ["home", "archives", "blog", "entry", "post", "posts"]
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
