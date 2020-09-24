@@ -8,3 +8,4 @@ weight: 5
 - [Конструкции структурного программирования в Kotlin]({{< param lecUrl >}}basic) [{{< awesome fa fa-print >}}]({{< param lecUrl >}}basic/?print-pdf)
 - [Объекты]({{< param lecUrl >}}object) [{{< awesome fa fa-print >}}]({{< param lecUrl >}}object/?print-pdf)
 - [Классы]({{< param lecUrl >}}class) [{{< awesome fa fa-print >}}]({{< param lecUrl >}}class/?print-pdf)
+- [Иерархии классов]({{< param lecUrl >}}inheritance) [{{< awesome fa fa-print >}}]({{< param lecUrl >}}inheritance/?print-pdf)
