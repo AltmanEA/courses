@@ -1,12 +1,12 @@
 ---
-title: 5. Иерархия классов
+title: 5. Наследование
 weight: 10
 ---
 
 ### Теоретические сведения
 
-[Лекция]({{< param lecUrl >}}inheritance)
-[Исходный проект](https://github.com/AltmanEA/game) (каталог d_inheritance)
+- [Лекция]({{< param lecUrl >}}inheritance)
+- [Исходный проект](https://github.com/AltmanEA/game) (каталог d_inheritance)
 
 ### Задание
 
