@@ -10,3 +10,5 @@ weight: 5
 - [Классы]({{< param lecUrl >}}class) [{{< awesome fa fa-print >}}]({{< param lecUrl >}}class/?print-pdf)
 - [Безопасность]({{< param lecUrl >}}safe) [{{< awesome fa fa-print >}}]({{< param lecUrl >}}safe/?print-pdf)
 - [Иерархии классов]({{< param lecUrl >}}inheritance) [{{< awesome fa fa-print >}}]({{< param lecUrl >}}inheritance/?print-pdf)
+- [Свойства и функции]({{< param lecUrl >}}profun) [{{< awesome fa fa-print >}}]({{< param lecUrl >}}profun/?print-pdf)
+- [Интерфейсы и абстрактные классы]({{< param lecUrl >}}relation) [{{< awesome fa fa-print >}}]({{< param lecUrl >}}relation/?print-pdf)
