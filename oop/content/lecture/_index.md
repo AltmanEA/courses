@@ -12,3 +12,6 @@ weight: 5
 - [Иерархии классов]({{< param lecUrl >}}inheritance) [{{< awesome fa fa-print >}}]({{< param lecUrl >}}inheritance/?print-pdf)
 - [Свойства и функции]({{< param lecUrl >}}profun) [{{< awesome fa fa-print >}}]({{< param lecUrl >}}profun/?print-pdf)
 - [Интерфейсы и абстрактные классы]({{< param lecUrl >}}relation) [{{< awesome fa fa-print >}}]({{< param lecUrl >}}relation/?print-pdf)
+- [Дополнение классов]({{< param lecUrl >}}misc) [{{< awesome fa fa-print >}}]({{< param lecUrl >}}misc/?print-pdf)
+- [Расширение ООП]({{< param lecUrl >}}extra) [{{< awesome fa fa-print >}}]({{< param lecUrl >}}extra/?print-pdf)
+- [Асинхронные функции]({{< param lecUrl >}}async) [{{< awesome fa fa-print >}}]({{< param lecUrl >}}async/?print-pdf)
